@@ -42,13 +42,13 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 ## Skills
 
 **Communication and Teamwork**   
-I have very well-developed communication skills from my years working in the meat industry, where my relationships with suppliers, customers, and all organizational contacts along the supply chain were key. I’ve been able to further this skill by working in agile groups on team projects at Makers - perhaps my favourite part of the Makers experience.  
-   
+I have very well-developed communication skills from my years working in the meat industry, where my relationships with suppliers, customers, and all organisational contacts along the supply chain were key. I’ve been able to further this skill by working in agile groups on team projects at Makers - perhaps my favourite part of the Makers experience.  
+
 **Adaptable and Quick to Learn**   
 Over the course of a decade, I worked my way through the various levels of employment in the meat industry, including a period spent living overseas; the cumulative effect of these experiences strengthened my sense of myself as someone who is comfortable with regularly taking on new challenges. My pivot to software engineering in 2019 was a welcome next step in my career, and at Makers I have been able to continue developing my flexibility while demonstrating my ability to learn quickly both as a member of a group during team projects and individually when working on personal projects.  
-   
+
 **Attentive to Detail**   
-I’ve spent a significant amount of my professional life in an area that is both complex and highly timesensitive. Working with manifests, health certificates, and multiple points of contact all crucial to products being allowed through customs and into customer’s hands which has trained me to be extremely attentive to detail. I’ve enjoyed bringing this skill to my work in software developemnt and I have found it particularly useful when debugging and delivering requirements.  
-   
+I’ve spent a significant amount of my professional life in an area that is both complex and highly time-sensitive. Working with manifests, health certificates, and multiple points of contact all crucial to products being allowed through customs and into customer’s hands which has trained me to be extremely attentive to detail. I’ve enjoyed bringing this skill to my work in software development and I have found it particularly useful when debugging and delivering requirements.  
+
 **Analytical and Pragmatic**   
-Successfully working in sales and purchases for an extended period of time requires a keen analytical mind, which I have worked hard to hone over the years. Stock control and forecasting likewise depend on pragmatism and analysis. These have been particularly useful qualities to bring to software engineering, where I’ve been able to incorporate them into my TDD process and apply them when planning and modelling, leading to easy to read code that is well tested.  
+Successfully working in sales and purchases for an extended period of time requires a keen analytical mind, which I have worked hard to hone over the years. Stock control and forecasting likewise depend on pragmatism and analysis. These have been particularly useful qualities to bring to software engineering, where I’ve been able to incorporate them into my TDD process and apply them when planning and modelling, leading to performant, easy to read code that is well tested.  
