@@ -4,8 +4,7 @@
 [Background ](#background) |
 [Projects ](#projects) |
 [Experience ](#experience) |
-[Skills ](#skills) |
-[Education ](#education)
+[Skills ](#skills)
 
 </div>
 
@@ -25,6 +24,9 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 
 ## Experience
 
+**Makers Academy** |London, UK| (April 2019 to present)    
+*Student at one of Europe's best intensive software engineering courses*
+
 **Mulberry International Ltd** |London, UK| (May 2009 to March 2019)    
 *Meat Trader, Purchases, Sales, Stock Control, Shipping, Office Manager*
 
@@ -39,24 +41,14 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 
 ## Skills
 
-**Excellent Communication and Teamwork**   
+**Communication and Teamwork**   
 I have very well-developed communication skills from my years working in the meat industry, where my relationships with suppliers, customers, and all organizational contacts along the supply chain were key. I’ve been able to further this skill by working in agile groups on team projects at Makers - perhaps my favourite part of the Makers experience.  
+   
 **Adaptable and Quick to Learn**   
 Over the course of a decade, I worked my way through the various levels of employment in the meat industry, including a period spent living overseas; the cumulative effect of these experiences strengthened my sense of myself as someone who is comfortable with regularly taking on new challenges. My pivot to software engineering in 2019 was a welcome next step in my career, and at Makers I have been able to continue developing my flexibility while demonstrating my ability to learn quickly both as a member of a group during team projects and individually when working on personal projects.  
+   
 **Attentive to Detail**   
 I’ve spent a significant amount of my professional life in an area that is both complex and highly timesensitive. Working with manifests, health certificates, and multiple points of contact all crucial to products being allowed through customs and into customer’s hands which has trained me to be extremely attentive to detail. I’ve enjoyed bringing this skill to my work in software developemnt and I have found it particularly useful when debugging and delivering requirements.  
+   
 **Analytical and Pragmatic**   
 Successfully working in sales and purchases for an extended period of time requires a keen analytical mind, which I have worked hard to hone over the years. Stock control and forecasting likewise depend on pragmatism and analysis. These have been particularly useful qualities to bring to software engineering, where I’ve been able to incorporate them into my TDD process and apply them when planning and modelling, leading to easy to read code that is well tested.  
-
-## Education
-
-#### Makers Academy (April 2019 - June 2019)
-
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-
-- OOP, TDD, MVC, BDD, SRP
-- Agile/XP, Pair Programming, Code Reviews
-- Ruby, Rails, JavaScript, Swift, PostgreSQL
-- RSpec, Jasmine, XCTest
