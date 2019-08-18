@@ -2,6 +2,7 @@
 <div align="center">
 
 [Background ](#background) |
+[Technologies ](#technologies) |
 [Projects ](#projects) |
 [Experience ](#experience) |
 [Skills ](#skills)
@@ -13,6 +14,20 @@
 A Makers Academy graduate. My career began in the meat industry, where I worked my way up from Shop Assistant to second in command at a small meat trading LLC. After becoming disillusioned with the industry and frustrated by its environmental effects, I dipped my toes into tech by taking a few short courses in coding. I decided then to make the leap into software development, a field that allows me to combine my problem solving skills with my desire to make a positive contribution to the world.
 
 I am looking for a role that will allow me the opportunity to both exercise my existing skills and continue to learn. My ideal work environment is a positive, collaborative team delivering varied and interesting projects.  
+
+## Technologies
+ 
+**Languages**   
+*Ruby, Javascript (AJAX, JSON), Swift, C, CSS, HTML, SQL*
+ 
+**Frameworks/Libraries**   
+*Ruby on Rails, Rspec, Capybara, Node.js, jQuery, Jest, Jasmine*
+ 
+**Database/Industry Tools**    
+*PostgreSQL, Git, Github, Travis CI, Heroku*
+ 
+**Processes/Practices**    
+*OOP, TDD, BDD, SRP, MVC, Agile/XP, Pair programming, Code Reviews*
 
 ## Projects
 
