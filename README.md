@@ -18,16 +18,16 @@ I am looking for a role that will allow me the opportunity to both exercise my e
 ## Technologies
  
 **Languages**   
-*Ruby, Javascript (AJAX, JSON), Swift, C, CSS, HTML, SQL*
+*JavaScript, Ruby, Swift, C, SQL, HTML, CSS*
  
 **Frameworks/Libraries**   
-*Ruby on Rails, Rspec, Capybara, Node.js, jQuery, Jest, Jasmine*
+*React, Node.js, Jest, Enzyme, Jasmine, Ruby on Rails, Rspec, Capybara*
  
 **Database/Industry Tools**    
 *PostgreSQL, Git, Github, Travis CI, Heroku*
  
 **Processes/Practices**    
-*OOP, TDD, BDD, SRP, MVC, Agile/XP, Pair programming, Code Reviews*
+*Agile/XP, TDD, BDD, SRP, MVC, OOP, Pair programming, Code Reviews*
 
 ## Projects
 
